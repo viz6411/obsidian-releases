@@ -53597,5 +53597,12 @@
     "author": "secondbrainprod",
     "description": "Brings highlights and notes from the Beresta reader into your book notes as Markdown callouts, one managed section per book, leaving the text you wrote by hand untouched. Reads a snapshot file inside the vault and makes no network requests. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "secondbrainprod/beresta-obsidian"
+  },
+  {
+    "id": "kinopoisk-plugin",
+    "name": "Kinopoisk Film Enricher",
+    "author": "viz6411",
+    "description": "Enrich film notes with data from Kinopoisk (description, rating, poster, link). Flexible field-to-property mapping, dynamic API keys, configurable overwrite behavior.",
+    "repo": "viz6411/Obsidian-Kinopoisk-plugin"
   }
 ]
