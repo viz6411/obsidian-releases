@@ -53660,5 +53660,12 @@
     "author": "Markos Narinian",
     "description": "Tag folders and notes with color from the right-click menu, using the seven macOS Finder tag colors. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "markosnarinian/obsidian-color-tags"
+  },
+  {
+    "id": "kinopoisk-plugin",
+    "name": "Kinopoisk Film Enricher",
+    "author": "viz6411",
+    "description": "Enrich film notes with data from Kinopoisk (description, rating, poster, link). Flexible field-to-property mapping, dynamic API keys, configurable overwrite behavior.",
+    "repo": "viz6411/Obsidian-Kinopoisk-plugin"
   }
 ]
